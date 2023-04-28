@@ -1,0 +1,26 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  p5:
+    specifier: ^1.6.0
+    version: 1.6.0
+  phoenix:
+    specifier: ^1.7.2
+    version: 1.7.2
+  phoenix_html:
+    specifier: ^3.3.1
+    version: 3.3.1
+
+packages:
+
+  /p5@1.6.0:
+    resolution: {integrity: sha512-RowF+RxfVUhJm/YKXL5TCFzTqnwAIwK6W1VGs9LAqSf3PCmLz9Igbxzlf0Ry5IMV71L42wipCdH/bDiNsqAstA==}
+    dev: false
+
+  /phoenix@1.7.2:
+    resolution: {integrity: sha512-jwWDOsUNEQZkLNSwzfLJ6AMFUkyZ+ILU+NkBBtoAK020QPpV/dYEQHGMQoFScj89MFjJlLdkE1W97i8S+4FdGg==}
+    dev: false
+
+  /phoenix_html@3.3.1:
+    resolution: {integrity: sha512-t/9Saqpe8vznZYHMDim7HS32Dd2/rKf3+uxuKKNRADLpGXVIDjselOY6pK8aNaLiY2gnlqsoz6yIpUBuoLT63w==}
+    dev: false
